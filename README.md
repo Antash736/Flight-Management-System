@@ -116,8 +116,3 @@ A console-based flight reservation system supporting multiple user roles, built 
 - **UI**: Console (Optional: Swing GUI)  
 - **Storage**: File I/O (Optional: SQLite DB)
 
----
-
-## 📁 Project Structure (Suggested)
-
-
