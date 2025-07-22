@@ -103,7 +103,7 @@ A console-based flight reservation system supporting multiple user roles, built 
 
 ---
 
-## 🚀 Bonus Features
+## 🚀 Additioal Features
 
 - **GUI Version**: Java Swing-based interface for flights and bookings
 - **Database Version**: Store data in SQLite instead of text files with secure queries
